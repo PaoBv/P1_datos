@@ -36,11 +36,15 @@
 		"latitud": -1.241667,
 		"gentilicio": "Ambateño/a"
 	}, {
-		"nombre": "Esmeraldas",
-		"provincia": "Esmeraldas",
+		"nombre": "Reino Helado",
 		"longitud": -79.666667,
 		"latitud": 0.95,
-		"gentilicio": "Esmeraldeño/a"
+		"gobernante": "Rey Helado"
+		"habitantes": "Gunter, pingüinos, criaturas de hielo"
+		"características": "Montañas puntiagudas de hielo y nieve en los picos"
+	
+		
+		
 	}, {
 		"nombre": "Riobamba",
 		"provincia": "Chimborazo",
