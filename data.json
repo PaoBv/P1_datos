@@ -2,124 +2,124 @@
 	"capitales": [{
 		
 		"nombre": "Reino Helado",
-		"longitud": 420,
-		"latitud":  1032,
+		"longitud": 1032,
+		"latitud":  420,
 		"gobernante": "Rey Helado",
 		"habitantes": "Gunter, pingüinos, criaturas de hielo",
 		"caracteristicas":"Montañas puntiagudas de hielo y nieve en los picos"
 	}, {
 		"nombre": "Dulce Reino",
 		"provincia": "Santo Domingo de los Tsáchilas",
-		"longitud": -512,
-		"latitud": -840,
+		"longitud": 840,
+		"latitud":  512,
 		"gentilicio": "Santodomingueño/a"
 	}, {
 		"nombre": "Fuerte del arbol",
 		"provincia": "El Oro",
-		"longitud": 536,
-		"latitud": 1030,
+		"longitud": 1030,
+		"latitud": 536,
 		"gentilicio": "Machaleño/a"
 	}, {
 		"nombre": "Entrada al espacio grumoso",
 		"provincia": "Manabí",
-		"longitud": 720,
-		"latitud": 912,
+		"longitud": 912,
+		"latitud": 720,
 		"gentilicio": "Portovejense"
 	}, {
 		"nombre": "Reino del fuego",
 		"provincia": "Loja",
-		"longitud": 854,
-		"latitud": 746,
+		"longitud": 746,
+		"latitud": 854,
 		"gentilicio": "Lojano/a"
 	}, {
 		"nombre": "Ciudad de los ladrones",
 		"provincia": "Tungurahua",
-		"longitud": 994,
-		"latitud": 828,
+		"longitud": 828,
+		"latitud": 994,
 		"gentilicio": "Ambateño/a"
 	}, {
 		"nombre": "Isla basura",
 		"provincia": "Esmeraldas",
-		"longitud": 992,
-		"latitud": 1428,
+		"longitud": 1428,
+		"latitud": 992,
 		"gentilicio": "Esmeraldeño/a"
 	}, {
 		"nombre": "Tierras desérticas",
 		"provincia": "Chimborazo",
-		"longitud": 994,
-		"latitud": 822,
+		"longitud": 822,
+		"latitud": 994,
 		"gentilicio": "Riobambeño/a"
 	}, {
 		"nombre": "Bosque oscuro",
 		"provincia": "Imbabura",
-		"longitud": 742,
-		"latitud": 1172,
+		"longitud": 1172,
+		"latitud": 742,
 		"gentilicio": "Ibarreño/a"
 	}, {
 		"nombre": "Las cuevas",
 		"provincia": "Los Ríos",
-		"longitud": 353,
-		"latitud": 849,
+		"longitud": 849,
+		"latitud": 353,
 		"gentilicio": "Babahoyense"
 	}, {
 		"nombre": "Reino montañoso",
 		"provincia": "Cotopaxi",
-		"longitud": 611,
-		"latitud": 509,
+		"longitud": 509,
+		"latitud": 611,
 		"gentilicio": "Latacungueño/a"
 	}, {
 		"nombre": "Tierras desconocidas",
 		"provincia": "Carchi",
-		"longitud": 1096,
-		"latitud": 222,
+		"longitud": 222,
+		"latitud": 1096,
 		"gentilicio": "Tulcaneño/a"
 	}, {
 		"nombre": "El lago encantado",
 		"provincia": "Sucumbíos",
-		"longitud": 1309,
-		"latitud": 405,
+		"longitud": 405,
+		"latitud": 1309,
 		"gentilicio": "Neolojano/a"
 	}, {
 		"nombre": "Bosque de los árboles",
 		"provincia": "Orellana",
-		"longitud": 1295,
-		"latitud": 624,
+		"longitud": 624,
+		"latitud": 1295,
 		"gentilicio": "Orellanense"
 	}, {
 		"nombre": "Tierras de pasto",
 		"provincia": "Santa Elena",
-		"longitud": 596,
-		"latitud": 1082,
+		"longitud": 1082,
+		"latitud": 596,
 		"gentilicio": "Santaelenese"
 	}, {
 		"nombre": "El Mar de Tinta de Calamar",
 		"provincia": "Cañar",
-		"longitud": 1305,
-		"latitud": 1092,
+		"longitud": 1092,
+		"latitud": 1305,
 		"gentilicio": "Azogueño/a"
 	}, {
 		"nombre": "Reina de las nubes",
 		"provincia": "Pastaza",
-		"longitud": 466,
-		"latitud": 180,
+		"longitud": 180,
+		"latitud": 466,
 		"gentilicio": "Puyense"
 	}, {
 		"nombre": "Castilla de limonagrio",
 		"provincia": "Bolívar",
-		"longitud": 398,
-		"latitud": 1167,
+		"longitud": 1167,
+		"latitud": 398,
 		"gentilicio": "Guarandeño/a"
 	}, {
 		"nombre": "El océano de algo",
 		"provincia": "Napo",
-		"longitud": 132,
-		"latitud": 968,
+		"longitud": 968,
+		"latitud": 132,
 		"gentilicio": "Tenense"
 	}, {
 		"nombre": "Océano de la muerte segura",
 		"provincia": "Morona Santiago",
-		"longitud": 968,
-		"latitud": 445,
+		"longitud": 445,
+		"latitud": 968,
 		"gentilicio": "Macabeo/Maquense"
 	
 		
