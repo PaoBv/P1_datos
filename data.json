@@ -6,6 +6,7 @@
 		"latitud":  420,
 		"gobernante": "Rey Helado",
 		"habitantes": "Gunter, pingüinos, criaturas de hielo",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img1.png",
 		"caracteristicas":"Montañas puntiagudas de hielo y nieve en los picos"
 	}, {
 		"nombre": "Dulce Reino",
@@ -13,6 +14,7 @@
 		"latitud":  512,
 		"gobernante": "Dulce Princesa",
 		"habitantes": "Gente de caramelo, bananaguardias",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img2.png",
 		"caracteristicas":"Esta hecho de dulce, azúcar y diferentes tipos de postres. Es el reino mas popular y recurrente en la serie. "
 	}, {
 		"nombre": "Fuerte del arbol",
@@ -20,6 +22,7 @@
 		"latitud": 536,
 		"gobernante": "Ninguno",
 		"habitantes": "Finn y Jake",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img3.png",
 		"caracteristicas":"El Fuerte incluye una sala de estar, un dormitorio, una cocina, un estanque, un pozo, un baño, un gallinero, un ático, una especie de garaje "
 	}, {
 		"nombre": "Entrada al espacio grumoso",
@@ -27,6 +30,7 @@
 		"latitud": 720,
 		"gobernante": "Princesa Grumosa",
 		"habitantes": "Gente grumosa",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img4.png",
 		"caracteristicas":"Es una tierra muy desigual, está formado por nubes con forma de grumos de diferentes tonos de purpura y azul que flotan en el espacio, hay también varios árboles."
 		
 	}, {
@@ -35,6 +39,7 @@
 		"latitud": 854,
 		"gobernante": "Princesa Flama",
 		"habitantes": "Gente y lobos de fuego",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img5.png",
 		"caracteristicas":"Se compone de los volcanes, cráteres, torres que sueltan humo y mares de lava."
 		
 	}, {
@@ -43,6 +48,7 @@
 		"latitud": 744,
 		"gobernante": "Rey de los ladrones",
 		"habitantes": "Gente de dulce",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img6.png",
 		"caracteristicas":"Ciudad donde el orden se ha establecido en base al robo"
 		
 	}, {
@@ -51,6 +57,7 @@
 		"latitud": 992,
 		"gobernante": "Gary",
 		"habitantes": "Gary, polluelos de las sirenas",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img7.png",
 		"caracteristicas":"Este río alberga criaturas misteriosas entre tanta basura"
 		
 	}, {
@@ -59,6 +66,7 @@
 		"latitud": 841,
 		"gobernante": "El Duque",
 		"habitantes": "Desconocidos",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img8.png",
 		"caracteristicas":"Terreno baldío No habita nada más que la soledad y los huesos."
 		
 	}, {
@@ -67,6 +75,7 @@
 		"latitud": 742,
 		"gobernante": "Rey Helado",
 		"habitantes": "Muro de Piel, señales malvadas, bestia serpiente cerebro de rubí, guardián de Cristal",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img9.png",
 		"caracteristicas":"En general, está constituido por árboles oscuros y retorcidos, la mayoría de los cuales tienen expresiones de horror, dolor e ira en sus troncos."
 		
 	}, {
@@ -75,6 +84,7 @@
 		"latitud": 353,
 		"gobernante": "Desconocido",
 		"habitantes": "Hombre Banana, Finn, Jake",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img10.png",
 		"caracteristicas":"La Cueva Subterránea es oscura y húmeda. Hay un enorme lago, en el fondo de la cueva. Y las estalagmitas cuelgan del techo"
 		
 	}, {
@@ -83,6 +93,7 @@
 		"latitud": 611,
 		"gobernante": "desconocido",
 		"habitantes": "Personas de roca, vikingos luchadores, Marceline",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img11.png",
 		"caracteristicas":"Esta rodeado por las Islas Shiney, ya que es muy cercano al mar. La Casa de la Princesa Flama y la Aldea de los Vikingos Luchadores se encuentran allí."
 		
 	}, {
@@ -91,6 +102,7 @@
 		"latitud": 1096,
 		"gobernante": "Desconocido",
 		"habitantes": "Desconocidos",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img12.png",
 		"caracteristicas":"se ubican al norte del Reino Helado y están rodeadas de las aguas del Mar de Algo"
 		
 	}, {
@@ -99,6 +111,7 @@
 		"latitud": 410,
 		"gobernante": "Desconocido",
 		"habitantes": "Personas desnudas",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img13.png",
 		"caracteristicas":"Es un lugar donde hay Personas Desnudas tomando duchas detrás de las cortinas de color rojo. "
 		
 	}, {
@@ -107,6 +120,7 @@
 		"latitud": 1295,
 		"gobernante": "Desconocido",
 		"habitantes": "Tronquitos,Bruja del jardín, Stanley, Gente árbol, rainy, anguilas electricas",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img14.png",
 		"caracteristicas":"El bosque está lleno de muchos peligros, como el Río Ácido, las Sombras del Puente, y el Cíclope del Bosque. "
 		
 	}, {
@@ -115,6 +129,7 @@
 		"latitud": 596,
 		"gobernante": "Princesa galleta",
 		"habitantes": "Finn / Fionna, Jake / Cake, Princesa Hot Dog, Caballeros de Hot Dog, Cubo de Batalla, Pelusas, Pato de Dos Cabezas",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img15.png",
 		"caracteristicas":"Es una zona de campos verdes, cubiertas de hierba y la ubicación del Fuerte del Arbol de Finn y Jake. "
 	}, {
 		"nombre": "El Mar de Tinta de Calamar",
@@ -122,6 +137,7 @@
 		"latitud": 1305,
 		"gobernante": "Desconocido",
 		"habitantes": "Billy y su novia",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img16.png",
 		"caracteristicas":" Océano monstruo que hizo su aparición en la forma de una ola enorme. La única característica notable del Mal Océano es que tiene una cara malvada, de lo contrario, se ve como una ola normal."
 	}, {
 		"nombre": "Reino de las nubes",
@@ -129,6 +145,7 @@
 		"latitud": 466,
 		"gobernante": "El lobo de las fiestas",
 		"habitantes": "Gente de las nubes",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img1.png",
 		"caracteristicas":"Al parecer en este reino se hacen muchas fiestas."
 	}, {
 		"nombre": "Castillo de limonagrio",
@@ -136,6 +153,7 @@
 		"latitud": 398,
 		"gobernante": "Limonagrio III",
 		"habitantes": "Caballo de Limón, Conde de Limonagrio, Gente Limonagrio, Clon del Conde Limonagrio, Pegaso de Limón, Banda Cachorra",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img2.png",
 		"caracteristicas":"La forma de gobierno actualmente es una especie de dictadura, en la cual el Conde de Limonagrio oprime a todos los pobladores, incluso llegando al grado de comerse a su propio hermano por no estar de acuerdo con él. "
 	}, {
 		"nombre": "Mar de algo",
@@ -143,6 +161,7 @@
 		"latitud": 132,
 		"gobernante": "Desconocido",
 		"habitantes": "Desconocido",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img3.png",
 		"caracteristicas":"Converge con las Gemas Flotantes"
 	}, {
 		"nombre": "Océano de la muerte segura",
@@ -150,6 +169,7 @@
 		"latitud": 968,
 		"gobernante": "Desconocido",
 		"habitantes": "Dragón",
+		"Imagen": "https://www.openprocessing.org/sketch/421085/files/img4.png",
 		"caracteristicas":"Debido a su nombre y a que aparece dibujado una especie de Dragón Marino en el mapa en este lugar debe ser un sitio muy peligroso."
 	
 		
