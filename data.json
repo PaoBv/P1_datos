@@ -9,118 +9,148 @@
 		"caracteristicas":"Montañas puntiagudas de hielo y nieve en los picos"
 	}, {
 		"nombre": "Dulce Reino",
-		"provincia": "Santo Domingo de los Tsáchilas",
 		"longitud": 840,
 		"latitud":  512,
-		"gentilicio": "Santodomingueño/a"
+		"gobernante": "Dulce Princesa",
+		"habitantes": "Gente de caramelo, bananaguardias",
+		"caracteristicas":"Esta hecho de dulce, azúcar y diferentes tipos de postres. Es el reino mas popular y recurrente en la serie. "
 	}, {
 		"nombre": "Fuerte del arbol",
-		"provincia": "El Oro",
 		"longitud": 1030,
 		"latitud": 536,
-		"gentilicio": "Machaleño/a"
+		"gobernante": "Ninguno",
+		"habitantes": "Finn y Jake",
+		"caracteristicas":"El Fuerte incluye una sala de estar, un dormitorio, una cocina, un estanque, un pozo, un baño, un gallinero, un ático, una especie de garaje "
 	}, {
 		"nombre": "Entrada al espacio grumoso",
-		"provincia": "Manabí",
 		"longitud": 912,
 		"latitud": 720,
-		"gentilicio": "Portovejense"
+		"gobernante": "Princesa Grumosa",
+		"habitantes": "Gente grumosa",
+		"caracteristicas":"Es una tierra muy desigual, está formado por nubes con forma de grumos de diferentes tonos de purpura y azul que flotan en el espacio, hay también varios árboles."
+		
 	}, {
 		"nombre": "Reino del fuego",
-		"provincia": "Loja",
 		"longitud": 746,
 		"latitud": 854,
-		"gentilicio": "Lojano/a"
+		"gobernante": "Princesa Flama",
+		"habitantes": "Gente y lobos de fuego",
+		"caracteristicas":"Se compone de los volcanes, cráteres, torres que sueltan humo y mares de lava."
+		
 	}, {
 		"nombre": "Ciudad de los ladrones",
-		"provincia": "Tungurahua",
 		"longitud": 828,
 		"latitud": 994,
-		"gentilicio": "Ambateño/a"
+		"gobernante": "Rey de los ladrones",
+		"habitantes": "Gente de dulce",
+		"caracteristicas":"Ciudad donde el orden se ha establecido en base al robo"
+		
 	}, {
 		"nombre": "Isla basura",
-		"provincia": "Esmeraldas",
 		"longitud": 1428,
 		"latitud": 992,
-		"gentilicio": "Esmeraldeño/a"
+		"gobernante": "Gary",
+		"habitantes": "Gary, polluelos de las sirenas",
+		"caracteristicas":"Este río alberga criaturas misteriosas entre tanta basura"
+		
 	}, {
 		"nombre": "Tierras desérticas",
-		"provincia": "Chimborazo",
 		"longitud": 822,
 		"latitud": 994,
-		"gentilicio": "Riobambeño/a"
+		"gobernante": "El Duque",
+		"habitantes": "Desconocidos",
+		"caracteristicas":"Terreno baldío No habita nada más que la soledad y los huesos."
+		
 	}, {
-		"nombre": "Bosque oscuro",
-		"provincia": "Imbabura",
+		"nombre": "Bosque negro",
 		"longitud": 1172,
 		"latitud": 742,
-		"gentilicio": "Ibarreño/a"
+		"gobernante": "Rey Helado",
+		"habitantes": "Muro de Piel, señales malvadas, bestia serpiente cerebro de rubí, guardián de Cristal",
+		"caracteristicas":"En general, está constituido por árboles oscuros y retorcidos, la mayoría de los cuales tienen expresiones de horror, dolor e ira en sus troncos."
+		
 	}, {
-		"nombre": "Las cuevas",
-		"provincia": "Los Ríos",
+		"nombre": "Cueva subterránea",
 		"longitud": 849,
 		"latitud": 353,
-		"gentilicio": "Babahoyense"
+		"gobernante": "Desconocido",
+		"habitantes": "Hombre Banana, Finn, Jake",
+		"caracteristicas":"La Cueva Subterránea es oscura y húmeda. Hay un enorme lago, en el fondo de la cueva. Y las estalagmitas cuelgan del techo"
+		
 	}, {
-		"nombre": "Reino montañoso",
-		"provincia": "Cotopaxi",
+		"nombre": "Reino montaña",
 		"longitud": 509,
 		"latitud": 611,
-		"gentilicio": "Latacungueño/a"
+		"gobernante": "desconocido",
+		"habitantes": "Personas de roca, vikingos luchadores, Marceline",
+		"caracteristicas":"Esta rodeado por las Islas Shiney, ya que es muy cercano al mar. La Casa de la Princesa Flama y la Aldea de los Vikingos Luchadores se encuentran allí."
+		
 	}, {
 		"nombre": "Tierras desconocidas",
-		"provincia": "Carchi",
 		"longitud": 222,
 		"latitud": 1096,
-		"gentilicio": "Tulcaneño/a"
+		"gobernante": "Desconocido",
+		"habitantes": "Desconocidos",
+		"caracteristicas":"se ubican al norte del Reino Helado y están rodeadas de las aguas del Mar de Algo"
+		
 	}, {
-		"nombre": "El lago encantado",
-		"provincia": "Sucumbíos",
-		"longitud": 405,
-		"latitud": 1309,
-		"gentilicio": "Neolojano/a"
+		"nombre": "Pantano encantado",
+		"longitud": 1307,
+		"latitud": 410,
+		"gobernante": "Desconocido",
+		"habitantes": "Personas desnudas",
+		"caracteristicas":"Es un lugar donde hay Personas Desnudas tomando duchas detrás de las cortinas de color rojo. "
+		
 	}, {
 		"nombre": "Bosque de los árboles",
-		"provincia": "Orellana",
 		"longitud": 624,
 		"latitud": 1295,
-		"gentilicio": "Orellanense"
+		"gobernante": "Desconocido",
+		"habitantes": "Tronquitos,Bruja del jardín, Stanley, Gente árbol, rainy, anguilas electricas",
+		"caracteristicas":"El bosque está lleno de muchos peligros, como el Río Ácido, las Sombras del Puente, y el Cíclope del Bosque. "
+		
 	}, {
 		"nombre": "Tierras de pasto",
-		"provincia": "Santa Elena",
 		"longitud": 1082,
 		"latitud": 596,
-		"gentilicio": "Santaelenese"
+		"gobernante": "Princesa galleta",
+		"habitantes": "Finn / Fionna, Jake / Cake, Princesa Hot Dog, Caballeros de Hot Dog, Cubo de Batalla, Pelusas, Pato de Dos Cabezas",
+		"caracteristicas":"Es una zona de campos verdes, cubiertas de hierba y la ubicación del Fuerte del Arbol de Finn y Jake. "
 	}, {
 		"nombre": "El Mar de Tinta de Calamar",
-		"provincia": "Cañar",
 		"longitud": 1092,
 		"latitud": 1305,
-		"gentilicio": "Azogueño/a"
+		"gobernante": "Desconocido",
+		"habitantes": "Billy y su novia",
+		"caracteristicas":" Océano monstruo que hizo su aparición en la forma de una ola enorme. La única característica notable del Mal Océano es que tiene una cara malvada, de lo contrario, se ve como una ola normal."
 	}, {
-		"nombre": "Reina de las nubes",
-		"provincia": "Pastaza",
+		"nombre": "Reino de las nubes",
 		"longitud": 180,
 		"latitud": 466,
-		"gentilicio": "Puyense"
+		"gobernante": "El lobo de las fiestas",
+		"habitantes": "Gente de las nubes",
+		"caracteristicas":"Al parecer en este reino se hacen muchas fiestas."
 	}, {
-		"nombre": "Castilla de limonagrio",
-		"provincia": "Bolívar",
+		"nombre": "Castillo de limonagrio",
 		"longitud": 1167,
 		"latitud": 398,
-		"gentilicio": "Guarandeño/a"
+		"gobernante": "Limonagrio III",
+		"habitantes": "Caballo de Limón, Conde de Limonagrio, Gente Limonagrio, Clon del Conde Limonagrio, Pegaso de Limón, Banda Cachorra",
+		"caracteristicas":"La forma de gobierno actualmente es una especie de dictadura, en la cual el Conde de Limonagrio oprime a todos los pobladores, incluso llegando al grado de comerse a su propio hermano por no estar de acuerdo con él. "
 	}, {
-		"nombre": "El océano de algo",
-		"provincia": "Napo",
+		"nombre": "Mar de algo",
 		"longitud": 968,
 		"latitud": 132,
-		"gentilicio": "Tenense"
+		"gobernante": "Desconocido",
+		"habitantes": "Desconocido",
+		"caracteristicas":"Converge con las Gemas Flotantes"
 	}, {
 		"nombre": "Océano de la muerte segura",
-		"provincia": "Morona Santiago",
 		"longitud": 445,
 		"latitud": 968,
-		"gentilicio": "Macabeo/Maquense"
+		"gobernante": "Desconocido",
+		"habitantes": "Dragón",
+		"caracteristicas":"Debido a su nombre y a que aparece dibujado una especie de Dragón Marino en el mapa en este lugar debe ser un sitio muy peligroso."
 	
 		
 	}]
