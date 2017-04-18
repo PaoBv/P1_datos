@@ -1,5 +1,15 @@
 {
 	"capitales": [{
+		
+		"nombre": "Reino Helado",
+		"longitud": -79.2,   
+		"latitud": 0.9,   
+		"gobernante": "Rey Helado",
+		"habitantes": "Gunter, pingüinos, criaturas de hielo",
+		"caracteristicas":"Montañas puntiagudas de hielo y nieve en los picos"
+
+		
+	}, {
 		"nombre": "Cuenca",
 		"provincia": "Azuay",
 		"longitud": -79.00453,
@@ -36,16 +46,7 @@
 		"latitud": -1.241667,
 		"gentilicio": "Ambateño/a"
 	}, {
-		"nombre": "Reino Helado",
-		"longitud": -79.4,   
-		"latitud": 0.8,   
-		"gobernante": "Rey Helado",
-		"habitantes": "Gunter, pingüinos, criaturas de hielo",
-		"caracteristicas":"Montañas puntiagudas de hielo y nieve en los picos"
-	
 		
-		
-	}, {
 		"nombre": "Riobamba",
 		"provincia": "Chimborazo",
 		"longitud": -78.648294,
@@ -82,18 +83,8 @@
 		"latitud": -0.059444,
 		"gentilicio": "Neolojano/a"
 	}, {
-		"nombre": "Francisco de Orellana",
-		"provincia": "Orellana",
-		"longitud": -76.984167,
-		"latitud": -0.4625,
-		"gentilicio": "Orellanense"
-	}, {
-		"nombre": "Santa Elena",
-		"provincia": "Santa Elena",
-		"longitud": -80.8583,
-		"latitud": -2.2267,
-		"gentilicio": "Santaelenese"
-	}, {
+		
+		
 		"nombre": "Azogues",
 		"provincia": "Cañar",
 		"longitud": -78.833333,
@@ -118,24 +109,14 @@
 		"latitud": -0.989,
 		"gentilicio": "Tenense"
 	}, {
-		"nombre": "Macas",
-		"provincia": "Morona Santiago",
-		"longitud": -78.116667,
-		"latitud": -2.3,
-		"gentilicio": "Macabeo/Maquense"
-	}, {
+		
 		"nombre": "Zamora",
 		"provincia": "Zamora Chinchipe",
 		"longitud": -78.956667,
 		"latitud": -4.069167,
 		"gentilicio": "Zamorano/a"
 	}, {
-		"nombre": "Puerto Baquerizo Moreno",
-		"provincia": "Galápagos",
-		"longitud": -89.609167,
-		"latitud": -0.9025,
-		"gentilicio": "Galapagueño/Galapaguense"
-	}, {
+		
 		"nombre": "Quito",
 		"provincia": "Pichincha",
 		"longitud": -78.509722,
